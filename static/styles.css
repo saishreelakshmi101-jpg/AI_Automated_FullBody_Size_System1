@@ -1,0 +1,4 @@
+/* static/styles.css - only used if you later render HTML templates */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
